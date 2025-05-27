@@ -1,0 +1,12 @@
+.fadeIn {
+  opacity: 0;
+  animation: myanimation 2s infinite;
+}
+
+.box {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  position: absolute;
+  animation: move 5s linear infinite;
+}
