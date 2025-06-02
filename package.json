@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DamianBello/proyecto3.git"
+    "url": "git+https://github.com/DamianBello/proyecto-3.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DamianBello/proyecto3/issues"
+    "url": "https://github.com/DamianBello/proyecto-3/issues"
   },
-  "homepage": "https://github.com/DamianBello/proyecto3#readme",
+  "homepage": "https://github.com/DamianBello/proyecto-3#readme",
   "description": ""
 }

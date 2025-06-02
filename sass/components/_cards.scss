@@ -1,0 +1,25 @@
+.card {
+  background: #eee;
+  padding: 1em;
+  border-radius: 5px;
+}
+.card1 {
+  background-color: #eee;
+  padding: 2em;
+  border-radius: 9px;
+  display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  max-width: 400px;
+  margin: auto;
+
+  @media (max-width: 600px) {
+    width: 90%;
+  }
+}
